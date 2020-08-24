@@ -23,6 +23,14 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
   color: inherit;
 }
 
+.social-icons .svg-inline--fa {
+  color: inherit !important;
+}
+
+.fa-github {
+  color: $text-color !important;
+}
+
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
